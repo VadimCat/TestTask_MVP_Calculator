@@ -1,0 +1,19 @@
+{
+    "name": "CalculatorApp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:895be88f0c7110c49925536406b33274",
+        "GUID:dd94253ef7851b54ba3f9174479cc412",
+        "GUID:dd02be05d17edf54c9c43043c91cd693",
+        "GUID:8f910f1e7a5041bd8aaf94caa685053e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
